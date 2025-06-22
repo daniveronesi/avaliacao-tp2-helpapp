@@ -191,10 +191,7 @@ Projeto desenvolvido para fins acadêmicos na disciplina de Desenvolvimento Back
 
 💙 Feito com dedicação, código limpo e arquitetura bem feita.
 
-Copiar
-Editar
 
----
 
 
 
